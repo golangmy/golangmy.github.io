@@ -1,0 +1,1 @@
+golangmy.github.io
